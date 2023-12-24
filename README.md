@@ -469,19 +469,19 @@
   
   <footer class="footer section" id="contact">
     <h2 class="section-title">Get in Touch</h2>
-    <p class="footer-title">Tushar Sahu</p>
+    <p class="footer-title">Ashish Kumar Singh</p>
     <div class="footer-social">
-      <a href="https://www.linkedin.com/in/tushar-sahu-3b9a79204/" target="_blank" class="footer-icon"><i
+      <a href="https://www.linkedin.com/in/ashish 92546/" target="_blank" class="footer-icon"><i
           class="bx bxl-linkedin">
           <br />
           LinkedIn</i></a>
-      <a href="https://twitter.com/Tushars2526" target="_blank" class="footer-icon"><i class="bx bxl-twitter">
+      <a href="https://twitter.com/ashish " target="_blank" class="footer-icon"><i class="bx bxl-twitter">
           <br />
           Twitter</i></a>
-      <a href="mailto:tksahu1234@gmail.com" target="_blank" class="footer-icon"><i class="bx bx-mail-send">
+      <a href="mailto: ashishkumarsingh92546@gmail.com" target="_blank" class="footer-icon"><i class="bx bx-mail-send">
           <br />
           E-mail</i></a>
-      <a href="tel:+91 8839819475" target="_blank" class="footer-icon"><i class="bx bx-phone">
+      <a href="tel:+91 7808131571" target="_blank" class="footer-icon"><i class="bx bx-phone">
           <br />
           Phone</i></a>
       <a href="https://github.com/tusharsahu2599" target="_blank" class="footer-icon"><i
